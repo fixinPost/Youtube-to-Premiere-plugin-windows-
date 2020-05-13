@@ -1,4 +1,4 @@
-# Youtube-to-Premiere-plugin-windows-
+# Youtube-to-Premiere-plugin
 A working plugin of my youtube to premiere code for windows. to run this you'll need Python working with commandline and pip. 
 pip install youtube-dl. you'll also need ffmpeg working in command line. 
 This script will create three files in your 'Documents' folder: 'YTPPDone', 'YTPPBatch'. and 'YTPPDone'.
